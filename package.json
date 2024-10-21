@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.3",
+    "talleresdsw": "file:"
   },
   "name": "talleresdsw",
   "version": "1.0.0",
   "description": "En este repositorio se encuentran los talleres del curso de desarrollo de software en equipos",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
