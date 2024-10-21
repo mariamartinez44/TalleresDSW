@@ -1,0 +1,51 @@
+body {
+    background-color: #ffe5e5; 
+}
+
+.carousel-item img {
+    width: 236px;
+    height: 354px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+.navbar {
+    background-color: #fecaca;
+}
+
+.navbar-brand img {
+    max-width: 170px;
+}
+
+.description {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-top: 20px;
+}
+
+.description h2 {
+    font-family: 'Georgia', serif;
+    color: #c70039;
+    text-align: center;
+}
+
+.description p {
+    font-family: 'Arial', sans-serif;
+    color: #333333;
+    text-align: justify;
+}
+
+.discography-title {
+    font-family: 'Georgia', serif;
+    color: #c70039;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.list-group-item {
+    font-family: 'Arial', sans-serif;
+    color: #333333;
+}
